@@ -1,0 +1,31 @@
+.active-link
+{
+    color:darkblue;
+    font-weight: bold;
+}
+
+.navbar
+{
+    background-color: var(--light-grayish-orange);
+}
+
+a
+{
+    padding: 5px 5px;
+}
+
+a:hover
+{
+    color:cadetblue;
+}
+
+i {
+    padding: 0px 10px;
+}
+
+.navbar-brand
+{
+    /* background-image: url("../../../assets/img/logo (2).png"); */
+    background-size: cover;
+    background-position: center;
+}
